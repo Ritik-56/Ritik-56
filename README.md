@@ -120,10 +120,8 @@ Git • GitHub • Postman
 
 ## 📫 Connect With Me
 
-📧 Email: YOUR_EMAIL
+📧 Email: patilritik84@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
-
-🌐 Portfolio: https://ritikpatil.in
+💼 LinkedIn: <a href="https://www.linkedin.com/in/ritik-patil-542660245/">ritik-patil</a>
 
 💻 GitHub: <a href="https://github.com/Ritik-56">Ritik-56</a> 
