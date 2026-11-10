@@ -126,4 +126,4 @@ Git • GitHub • Postman
 
 🌐 Portfolio: https://ritikpatil.in
 
-💻 GitHub: YOUR_GITHUB_URL
+💻 GitHub: <a href="https://github.com/Ritik-56">Ritik-56</a> 
