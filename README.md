@@ -22,35 +22,57 @@
 
 ## 💻 Tech Stack
 
-### 🚀 Frontend
-React.js • Next.js • JavaScript • HTML5 • CSS3 • Tailwind CSS • Vite
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 ### ⚙️ Backend
-Node.js • Express.js • REST APIs • JWT Authentication
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-### 🗄️ Databases
-MongoDB • Mongoose
+### 🗄️ Database
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 ### 💻 Programming Languages
-C++ • JavaScript • Python
-
-### 🤖 AI & Integrations
-Google Gemini API • AI Integration • Firebase
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### ☁️ Cloud & DevOps
-AWS • Docker • Nginx • Cloudflare Tunnel
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 
 ### 🛠️ Tools
 Git • GitHub • Postman • VS Code • Cursor
 
 ## 🚀 Featured Projects
 
-### 🛒 Cartify — E-commerce Platform
-- 🛍️ Full Stack E-commerce Application
-- ⚛️ React.js Frontend
-- ⚙️ Node.js & Express.js Backend
-- 🍃 MongoDB Database
-- 🔗 RESTful API Integration
+### 🏠 RentEase — Rental Property Management Platform
+- 🏘️ Tenant & Property Management
+- ⚡ Automated Rent Tracking & Payment Management
+- 🔔 Notifications & Payment Reminders
+- 📱 QR-based UPI Payment Integration
+- 📊 Dashboard for Property Owners
+- ⚛️ MERN Stack
+
+### 🎮 GamingHub — Gaming Cafe Management System
+- 🎮 Multi-Cafe & Gaming Station Management
+- ⏱️ Real-time Gaming Session Tracking
+- 💰 Dynamic Session Pricing & Controller Management
+- 👨‍💻 Separate Admin & Customer Dashboards
+- 📊 Payment Tracking & Excel Export
+- ⚛️ MERN Stack
+
+### 🏥 MediSync — Healthcare Management Platform
+- 🏥 Full Stack Healthcare Management
+- 🔐 Authentication & User Management
+- 📲 Firebase Push Notifications
+- 🗺️ Mapbox Integration
+- 🤖 Google Gemini AI Integration
+- ⚛️ MERN Stack
 
 ### 🤖 ResuAI — AI Resume Builder
 - 🧠 AI-powered Resume Generation
@@ -58,20 +80,13 @@ Git • GitHub • Postman • VS Code • Cursor
 - 📄 Automated Resume Content Generation
 - ⚡ React.js & Node.js
 
-### 🏥 MediSync — Healthcare Management Platform
-- 🏥 Full Stack Healthcare Application
-- 🔐 User Authentication
-- 📲 Firebase Notifications
-- 🤖 AI-powered Features
-- ⚛️ MERN Stack
-
-### 🎮 GamingHub — Gaming Cafe Management System
-- 🎮 Gaming Cafe & Console Session Management
-- ⏱️ Real-time Session Tracking
-- 💰 Automated Pricing Calculation
-- 👨‍💻 Admin & Customer Dashboards
-- 📊 Payment Management & Reports
-
+### 🛒 Cartify — E-commerce Platform
+- 🛍️ Full Stack E-commerce Application
+- ⚛️ React.js Frontend
+- ⚙️ Node.js & Express.js Backend
+- 🍃 MongoDB Database
+- 🔗 RESTful API Integration
+  
 ## 📈 Currently Learning
 
 ☁️ AWS Cloud Computing
